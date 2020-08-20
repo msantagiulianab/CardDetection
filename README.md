@@ -1,18 +1,61 @@
-# email_detection_send
+# Card Detection
 
 Scan a business card, computer screen or something that's been printed, and this app will detect
 if there is any email address and phone number, so you can contact this person immediately,
 without the need for typing the contact details.
+It works on both `Android & iOS`.
 
-## Getting Started
+<p float="left">
+<img src="https://user-images.githubusercontent.com/21276996/90820127-cdd97900-e328-11ea-9f39-110749cdc82d.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90820129-ce720f80-e328-11ea-8ca8-8e9a59037283.jpg" width="300" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure you have met the following requirements:
+* You have installed `Android 5.0 Lollipop or above` to run it on your mobile device.
+* You have installed `Android Studio v4.0 or above` to edit/compile it on your computer.
+* You have installed the latest version of `Dart/Flutter SDK` on your computer
+* You have a `<Windows/Linux/Mac>` computer.
+* You have read `LICENSE file`.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installing Card Detection
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To check the code, follow these steps:
+1. Clone the repository
+2. Open it in Android Studio
+3. Run the app on your device
+
+## Using Card Detection
+
+1. Start the app
+2. Point at the business card
+3. Take a picture
+4. Select the service (email, phone, sms) you want to use
+
+## Contributing to Card Detection
+
+To contribute to Card Detection, follow these steps:
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Contributors
+
+Code:
+Michele Santagiuliana Busellato
+
+Icon:
+Nikita Golubev (on flaticon.com)
+
+## Contact
+
+If you want to contact me you can reach me at <michelesantagiuliana@hotmail.it>.
+
+## License
+
+This project uses the following license: MIT license.
