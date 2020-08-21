@@ -6,8 +6,10 @@ without the need for typing the contact details.
 It works on both `Android & iOS`.
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/21276996/90820127-cdd97900-e328-11ea-9f39-110749cdc82d.jpg" width="300" />
-<img src="https://user-images.githubusercontent.com/21276996/90820129-ce720f80-e328-11ea-8ca8-8e9a59037283.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90927800-a8fb0980-e3ed-11ea-9527-8600e0cbfe43.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90928148-3dfe0280-e3ee-11ea-830d-2f4b86789a40.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90928155-3e969900-e3ee-11ea-8a06-c851d6c8f177.jpg" width="300" />
+
 </p>
 
 ## Prerequisites
