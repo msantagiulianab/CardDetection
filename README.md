@@ -6,9 +6,9 @@ without the need for typing the contact details.
 It works on both `Android & iOS`.
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/21276996/90927800-a8fb0980-e3ed-11ea-9527-8600e0cbfe43.jpg" width="300" />
-<img src="https://user-images.githubusercontent.com/21276996/90928148-3dfe0280-e3ee-11ea-830d-2f4b86789a40.jpg" width="300" />
-<img src="https://user-images.githubusercontent.com/21276996/90928155-3e969900-e3ee-11ea-8a06-c851d6c8f177.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90932033-c03df500-e3f5-11ea-9624-7a1802c33d4f.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90932034-c0d68b80-e3f5-11ea-87dd-d7728ac27b59.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90932036-c0d68b80-e3f5-11ea-8203-bed38d045482.jpg" width="300" />
 
 </p>
 
@@ -53,9 +53,6 @@ Michele Santagiuliana Busellato
 
 Icon:
 Nikita Golubev (on flaticon.com)
-
-Splash:
-pixabay.com
 
 ## Contact
 
