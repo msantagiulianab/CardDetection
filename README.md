@@ -52,6 +52,9 @@ Michele Santagiuliana Busellato
 Icon:
 Nikita Golubev (on flaticon.com)
 
+Splash:
+pixabay.com
+
 ## Contact
 
 If you want to contact me you can reach me at <michelesantagiuliana@hotmail.it>.
