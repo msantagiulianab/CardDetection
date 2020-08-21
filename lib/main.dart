@@ -111,7 +111,7 @@ class _CameraScreenState extends State<CameraScreen> {
                   child: Container(
                     alignment: Alignment.bottomCenter,
                     child: RaisedButton.icon(
-                      icon: Icon(Icons.photo_camera),
+                      icon: Icon(Icons.camera),
                       label: Text("Scan"),
                       onPressed: () async {
                         await _takePicture().then((String path) {
